@@ -1,0 +1,14 @@
+/* Untuk Tablet */
+@media all and (max-width: 1000px) {
+  .footer-right .news-form input {
+  	width: 75%;
+  }
+  .footer-right .news-form button {
+  	width: 75%;
+  }
+}
+
+/* Untuk Smartphone */
+@media all and (max-width: 670px) {
+
+}
